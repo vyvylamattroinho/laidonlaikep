@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Tiêu đề
-st.title("💰 App tính tiền gửi tiết kiệm_ Nguyễn Huỳnh Hạ Vy")
+st.title("💰 App tính tiền gửi tiết kiệm_ Nguyễn Huỳnh Hạ Vy_2521003449_TH25DMA19")
 
 # Nhập dữ liệu
 C = st.number_input("Nhập số tiền gốc (VNĐ)", value=700000000)

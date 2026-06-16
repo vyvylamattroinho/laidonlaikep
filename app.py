@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Tiêu đề
-st.title("💰 Tính lãi đơn và lãi kép")
+st.title("💰 App tính tiền gửi tiết kiệm")
 
 # Nhập dữ liệu
 C = st.number_input("Nhập số tiền gốc (VNĐ)", value=700000000)
